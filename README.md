@@ -17,4 +17,5 @@ Dans ce brief ce trouve le document *Brief_regression_decisionTreeRegressor_rand
 ## Livrables :
 
 Le Notebook *python* qui répond aux différents points du document *Brief_regression_decisionTreeRegressor_randomForestRegressor*
+
 Le Notebook *rapport* qui contient les interprétations de quelques questions ainsi qu'un petit résumé sur le principe de Decision Tree et Random Decision Forest.
